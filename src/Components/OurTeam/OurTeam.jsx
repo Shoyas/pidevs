@@ -24,9 +24,7 @@ const OurTeam = () => {
             <h4 className="text-xl font-semibold mt-5 text-[#453F41]">
               Zehad Khan
             </h4>
-            <p className="text-base mt-1 text-[#453F41]">
-              General Manager | PHP Developer
-            </p>
+            <p className="text-base mt-1 text-[#453F41]">PHP Developer</p>
           </div>
           <div className="flex justify-center mt-3">
             <Link to="/" className="p-2">
@@ -51,9 +49,7 @@ const OurTeam = () => {
             <h4 className="text-xl font-semibold mt-5 text-[#453F41]">
               Ashikul Islam Bitue
             </h4>
-            <p className="text-base mt-1 text-[#453F41]">
-              Associate Manager | Django Developer
-            </p>
+            <p className="text-base mt-1 text-[#453F41]">Django Developer</p>
           </div>
           <div className="flex justify-center mt-3">
             <Link to="/" className="p-2">
