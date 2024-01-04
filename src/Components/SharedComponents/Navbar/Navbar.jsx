@@ -7,7 +7,7 @@ const Navbar = () => {
         to="/"
         className={
           ("text-base font-semibold",
-          ({ isActive }) => (isActive ? "text-[#0C5ADB]" : ""))
+          ({ isActive }) => (isActive ? "text-[#0C5ADB]" : "text-[#453F41]"))
         }
       >
         Home
@@ -31,13 +31,13 @@ const Navbar = () => {
         Works
       </NavLink>
       <NavLink
-        to="/team"
+        to="/our-team"
         className={
           ("text-base font-semibold",
           ({ isActive }) => (isActive ? "text-[#0C5ADB]" : "text-[#453F41]"))
         }
       >
-        Team
+        Our Team
       </NavLink>
     </>
   );
