@@ -72,7 +72,7 @@ const OurTeam = () => {
           </div>
           <div className="text-center">
             <h4 className="text-xl font-semibold mt-5 text-[#453F41]">
-              Md. Naisr Uddin
+              Md. Nasir Uddin Shoyas
             </h4>
             <p className="text-base mt-1 text-[#453F41]">
               Full Stack Developer
