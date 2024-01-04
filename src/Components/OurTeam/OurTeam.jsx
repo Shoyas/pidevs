@@ -12,7 +12,7 @@ const OurTeam = () => {
   return (
     <div className="mt-20 mx-3">
       <h1 className="text-5xl font-semibold text-center text-[#0C5ADB] underline mt-10">
-        Founder Members
+        Founders
       </h1>
 
       <div className="grid md:grid-cols-4 grid-cols-1 gap-4 mt-20 ">
