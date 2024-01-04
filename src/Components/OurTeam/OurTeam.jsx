@@ -83,16 +83,23 @@ const OurTeam = () => {
             </p>
           </div>
           <div className="flex justify-center mt-3">
-            <Link to="/" className="p-2">
+            <Link
+              to="https://www.linkedin.com/in/md-nasir-uddin4067"
+              className="p-2"
+            >
               <LinkedinIcon />
             </Link>
-            <Link to="/" className="p-2">
+            <Link to="https://github.com/Shoyas" className="p-2">
               <GitHubIcon />
             </Link>
-            <Link to="/" className="p-2">
+            <Link
+              to="https://mail.google.com/mail/"
+              target="blank"
+              className="p-2"
+            >
               <EmailIcon />
             </Link>
-            <Link to="/" className="p-2">
+            <Link to="https://nasir-portfolio.netlify.app/" className="p-2">
               <PortfolioIcon />
             </Link>
           </div>
