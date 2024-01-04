@@ -81,21 +81,30 @@ const OurTeam = () => {
           <div className="flex justify-center mt-3">
             <Link
               to="https://www.linkedin.com/in/md-nasir-uddin4067"
+              target="_blank"
               className="p-2"
             >
               <LinkedinIcon />
             </Link>
-            <Link to="https://github.com/Shoyas" className="p-2">
+            <Link
+              to="https://github.com/Shoyas"
+              target="_blank"
+              className="p-2"
+            >
               <GitHubIcon />
             </Link>
             <Link
-              to="https://mail.google.com/mail/"
-              target="blank"
+              to="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=md.nasiruddin4067@gmail.com"
+              target="_blank"
               className="p-2"
             >
               <EmailIcon />
             </Link>
-            <Link to="https://nasir-portfolio.netlify.app/" className="p-2">
+            <Link
+              to="https://nasir-portfolio.netlify.app/"
+              target="_blank"
+              className="p-2"
+            >
               <PortfolioIcon />
             </Link>
           </div>
@@ -113,16 +122,32 @@ const OurTeam = () => {
             </p>
           </div>
           <div className="flex justify-center mt-3">
-            <Link to="/" className="p-2">
+            <Link
+              to="https://www.linkedin.com/in/iamrakib2/"
+              target="_blank"
+              className="p-2"
+            >
               <LinkedinIcon />
             </Link>
-            <Link to="/" className="p-2">
+            <Link
+              to="https://github.com/Rakibulislam1"
+              target="_blank"
+              className="p-2"
+            >
               <GitHubIcon />
             </Link>
-            <Link to="/" className="p-2">
+            <Link
+              to="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=rirakib03@gmail.com"
+              target="_blank"
+              className="p-2"
+            >
               <EmailIcon />
             </Link>
-            <Link to="/" className="p-2">
+            <Link
+              to="https://rakibul-islam-v1.netlify.app/"
+              target="_blank"
+              className="p-2"
+            >
               <PortfolioIcon />
             </Link>
           </div>
