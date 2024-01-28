@@ -1,4 +1,7 @@
-const WorkCard = () => {
+/* eslint-disable react/prop-types */
+const WorkCard = (props) => {
+  const { title, shortDescription, image } = props.project;
+
   return (
     <div
       data-aos="fade-up"
@@ -9,14 +12,14 @@ const WorkCard = () => {
       <div className="h-96 transition-all">
         <img
           className="w-full h-full ease-in-out duration-[5s] rounded-2xl object-top object-cover hover:object-bottom"
-          src={demoImageTwo}
-          alt={demoImageTwo}
+          src={image}
+          alt={title}
         />
       </div>
       <div className="group flex items-center justify-between mb-4 mt-3">
         <div className="">
-          <h2 className="text-sm text-[#BCBCBC]">Gamer Zone</h2>
-          <p className="text-white text-2xl font-medium">Online Games Shop</p>
+          <h2 className="text-sm text-[#BCBCBC]">{title}</h2>
+          <p className="text-white text-2xl font-medium">{shortDescription}</p>
         </div>
       </div>
     </div>
