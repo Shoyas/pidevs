@@ -4,10 +4,10 @@ import "swiper/css/pagination";
 import "swiper/css/free-mode";
 import { Autoplay, FreeMode } from "swiper/modules";
 
-import iconOne from "../../../assets/1.png";
-import iconTwo from "../../../assets/2.png";
-import iconThree from "../../../assets/3.png";
-import iconFour from "../../../assets/4.png";
+import iconOne from "../../../assets/1.webp";
+import iconTwo from "../../../assets/2.webp";
+import iconThree from "../../../assets/3.webp";
+import iconFour from "../../../assets/4.webp";
 
 const WhyChooseArea = () => {
   return (

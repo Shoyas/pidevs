@@ -1,7 +1,7 @@
 import CheckIcon from "../../icons/checkIcon";
-import demoImageOne from "../../../assets/pic/Eventvibehub.png";
-import demoImageTwo from "../../../assets/pic/GamerZone.png";
-import demoImageThree from "../../../assets/pic/Starbucks.png";
+import demoImageOne from "../../../assets/pic/Eventvibehub.webp";
+import demoImageTwo from "../../../assets/pic/GamerZone.webp";
+import demoImageThree from "../../../assets/pic/Starbucks.webp";
 
 const DemoArea = () => {
   return (

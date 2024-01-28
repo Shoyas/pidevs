@@ -1,6 +1,6 @@
 import Typewriter from "typewriter-effect";
-import imagesOne from "../../../assets/v1.png";
-import imagesTwo from "../../../assets/v2.png";
+import imagesOne from "../../../assets/v1.webp";
+import imagesTwo from "../../../assets/v2.webp";
 
 const HeroArea = () => {
   return (

@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import responsiveImageOne from "../../../assets/pidevs-layout.png";
+import responsiveImageOne from "../../../assets/pidevs-layout.webp";
 
 const ResponsiveLayoutArea = () => {
   return (

@@ -1,7 +1,7 @@
-import shoyas from "../../assets/team/shoyas-2.jpg";
-import shagor from "../../assets/team/Rakibulislam1.jpg";
-import zehad from "../../assets/team/zehad.png";
-import bitue from "../../assets/team/bitue.png";
+import shoyas from "../../assets/team/shoyas-2.webp";
+import shagor from "../../assets/team/Rakibulislam1.webp";
+import zehad from "../../assets/team/zehad.webp";
+import bitue from "../../assets/team/bitue.webp";
 import LinkedinIcon from "../icons/LinkedinIcon";
 import { Link } from "react-router-dom";
 import GitHubIcon from "../icons/GitHubIcon";
