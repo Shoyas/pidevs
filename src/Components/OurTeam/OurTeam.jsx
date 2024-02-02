@@ -16,6 +16,7 @@ const OurTeam = () => {
         Founders
       </h1>
 
+      {/* <div className="grid md:grid-cols-4 grid-cols-1 gap-4 mt-20 "> */}
       <div className="grid md:grid-cols-4 grid-cols-1 gap-4 mt-20 ">
         <div>
           <div className="flex justify-center">

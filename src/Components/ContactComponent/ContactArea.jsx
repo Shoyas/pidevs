@@ -52,7 +52,7 @@ const ContactArea = () => {
             className="px-4 py-3 bg-gradient-to-br from-[#505050] via-[#2e2d2d] to-[#6893d8] outline-none w-full rounded-lg text-white text-sm"
             id="name"
             type="text"
-            name="to_name"
+            name="from_name"
             placeholder="Name *"
             required
           />
@@ -62,7 +62,7 @@ const ContactArea = () => {
             className="px-4 py-3 bg-gradient-to-br from-[#505050] via-[#2e2d2d] to-[#6893d8] outline-none w-full rounded-lg text-white text-sm"
             id="email"
             type="email"
-            name="to_email"
+            name="from_email"
             placeholder="Email *"
             required
           />
